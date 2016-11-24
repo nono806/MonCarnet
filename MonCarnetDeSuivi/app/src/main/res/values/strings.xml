@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonCarnetDeSuivi</string>
+    <!-- Libellés du menu prinipal -->
+    <string name="lblBtnSaisie">Saisie</string>
+    <string name="lblBtnRecapitulatif">Récapitulatif</string>
+    <string name="lblBtnConfiguration">Configuration</string>
+
+    <!-- Libellés de la saisie de glycemie -->
+    <!-- Libellés du récapitulatif -->
+    <!-- Libellés de la configuration -->
+
+</resources>
